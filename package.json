@@ -1,0 +1,23 @@
+{
+  "name": "CleanExpressRoutes",
+  "version": "1.0.0",
+  "description": "A clean format to provide various routes to a Node.js application using Express.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-gould/CleanExpressRoutes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/james-gould/CleanExpressRoutes/issues"
+  },
+  "homepage": "https://github.com/james-gould/CleanExpressRoutes#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
